@@ -1,2 +1,2 @@
 
-For class activity 2. I added new text. Newly added text.
+For class activity 2. I added new text. Newly added text. Text from collaborator branch.
